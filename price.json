@@ -1,0 +1,258 @@
+{
+  "bikes": [
+    {
+      "name": "FZFI V3",
+      "price": 142049,
+      "images": [
+        "fzfi1.jpg",
+        "fzfi2.jpg"
+      ]
+    },
+    {
+      "name": "FZ-RAVE (Titan, Black)",
+      "price": 151284,
+      "images": [
+        "fzrave1.jpg",
+        "fzrave2.jpg"
+      ]
+    },
+    {
+      "name": "FZ BLUE FLEX (Black)",
+      "price": 151728,
+      "images": [
+        "fzblueflexblack.jpg"
+      ]
+    },
+    {
+      "name": "FZS V4 STD(Gray, White, Green, Black)",
+      "price": 157756,
+      "images": [
+        "fzsstd1.jpg",
+        "fzsstd2.jpg",
+        "fzsstd3.jpg",
+        "fzsstd4.jpg"
+      ]
+    },
+    {
+      "name": "FZS V4 HYBRID DLX(Matt Black, Cyan, Ice Storm)",
+      "price": 169211,
+      "images": [
+        "fzshyb1.jpg",
+        "fzshyb2.jpg",
+        "fzshyb3.jpg"
+      ]
+    },
+    {
+      "name": "FZX NOR (Black, Armada-Blue)",
+      "price": 152739,
+      "images": [
+        "fzxnor1.jpg",
+        "fzxnor2.jpg"
+      ]
+    },
+    {
+      "name": "FZX HYBRID (Matt-Titan)",
+      "price": 174337,
+      "images": [
+        "fzxhyb1.jpg"
+      ]
+    },
+    {
+      "name": "XSR-155 Base (Red)",
+      "price": 191711,
+      "images": [
+        "xsr2.jpg"
+      ]
+    },
+    {
+      "name": "XSR-155 Mid (Silver)",
+      "price": 195711,
+      "images": [
+        "xsr1.jpg"
+      ]
+    },
+    {
+      "name": "XSR-155 Top (Black, Green, Blue)",
+      "price": 197711,
+      "images": [
+        "xsr3.jpg",
+        "xsr4.jpg",
+        "xsr5.jpg"
+      ]
+    },
+    {
+      "name": "MT 15 STD (Black)",
+      "price": 200969,
+      "images": [
+        "mt15stdoldblack.jpg"
+      ]
+    },
+    {
+      "name": "MT15 V2-NEW STD(Cyan)",
+      "price": 202168,
+      "images": [
+        "mt15stdnewcyan.jpg"
+      ]
+    },
+    {
+      "name": "MT 15 V2 -MONSTER",
+      "price": 203833,
+      "images": [
+        "mt15monstermotogp.jpg"
+      ]
+    },
+    {
+      "name": "MT 15 V2 NEW DLX (Black, Violet, Cyan-White)",
+      "price": 212402,
+      "images": [
+        "mtnewdlx1.jpg",
+        "mtnewdlx2.jpg",
+        "mtnewdlx3.jpg"
+      ]
+    },
+    {
+      "name": "R15-V4 (Black, White - Without Quick-Shifter)",
+      "price": 212765,
+      "images": [
+        "r15v4red.jpg",
+        "r15v4black2.jpg",
+        "r15v4white.jpg"
+      ]
+    },
+    {
+      "name": "R15 V4 (Blue, White - With Quick-Shifter)",
+      "price": 217227,
+      "images": [
+        "r15v4racingblue.jpg",
+        "r15v4white.jpg",
+        "r15v4pearlwhite.jpg"
+      ]
+    },
+    {
+      "name": "R15 M SILVER",
+      "price": 229448,
+      "images": [
+        "r15msilver.jpg"
+      ]
+    },
+    {
+      "name": "R15 M MOTO-GP",
+      "price": 213598,
+      "images": [
+        "r15mmgp.jpg"
+      ]
+    },
+    {
+      "name": "R15 M ICON",
+      "price": 240781,
+      "images": [
+        "r15micon.jpg"
+      ]
+    },
+    {
+      "name": "R15 S",
+      "price": 193801,
+      "images": [
+        "r15sblac1.jpg",
+        "r15sblack2.jpg",
+        "r15sblue.jpg"
+      ]
+    },
+    {
+      "name": "YZF R2 STD (Black, Dark-Grey)",
+      "price": 274037,
+      "images": [
+        "r2stdmetallicblack.jpg",
+        "r2stddarkbluishgray.jpg"
+      ]
+    },
+    {
+      "name": "YZF R2 Quick-Shifter  (Blue, White)",
+      "price": 284027,
+      "images": [
+        "r2qsracingblue.jpg",
+        "r2qswhite.jpg"
+      ]
+    },
+    {
+      "name": "YZF R2M",
+      "price": 299012,
+      "images": [
+        "r2mgreyblue.jpg"
+      ]
+    },
+    {
+      "name": "New Fascino HYBRID DRUM (Red, Black,White)",
+      "price": 101356,
+      "images": [
+        "fascinodrum1.jpg",
+        "fascinodrum2.jpg",
+        "fascinodrum3.jpg"
+      ]
+    },
+    {
+      "name": "New Fascino HYBRID DISC (Armada, Cool Blue, Light Green)",
+      "price": 112778,
+      "images": [
+        "fascinodisk1.jpg",
+        "fascinodisk2.jpg",
+        "fascinodisk3.jpg"
+      ]
+    },
+    {
+      "name": "New Fascino HYBRID S (Matt Black, Matt Gray)",
+      "price": 121613,
+      "images": [
+        "fascinons1.jpg",
+        "fascinons2.jpg"
+      ]
+    },
+    {
+      "name": "RAY ZR DR (Black)",
+      "price": 100344,
+      "images": [
+        "rayzrdr2.jpg"
+      ]
+    },
+    {
+      "name": "RAY ZR DI (Armada-Blue, Black, White)",
+      "price": 109015,
+      "images": [
+        "rayzrdiscmetallicblack_disc.jpg",
+        "rayzrdidlx2.jpg",
+        "rayzrdiscwhite.jpg"
+      ]
+    },
+    {
+      "name": "RAY ZR STREET RALLY LCD (Black, White)",
+      "price": 115952,
+      "images": [
+        "rayzrstrblack.jpg",
+        "rayzrstr2.jpg"
+      ]
+    },
+    {
+      "name": "RAY ZR STREET RALLY TFT  (Titan, Black)",
+      "price": 123294,
+      "images": [
+        "rayzrstrtftmatte_black_tft.jpg",
+        "rayzrstrtftmatte_titan_tft.jpg"
+      ]
+    },
+    {
+      "name": "AEROX 155 STD",
+      "price": 178450,
+      "images": [
+        "aerox1.jpg"
+      ]
+    },
+    {
+      "name": "AEROX 155 S DLX",
+      "price": 182925,
+      "images": [
+        "aeroxs1.jpg",
+        "aeroxs2.jpg"
+      ]
+    }
+  ]
+}
