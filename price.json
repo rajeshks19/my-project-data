@@ -18,17 +18,17 @@
 
 { "name": "FZS V4 STD(Gray, White, Green, Black)",
   "price": 157756,
-  "images": ["fzsstd1.webp", "fzsstd2.webp", "fzsstd3.webp", "fzsstd4.webp"]}
+  "images": ["fzsstd1.webp", "fzsstd3.webp", "fzsstd4.webp", "fzsstd2.webp"]}
 ,
 
 { "name": "FZS V4 HYBRID DLX(Matt Black, Cyan, Ice Storm)",
   "price": 169211,
-  "images": ["fzshyb1.webp", "fzshyb2.webp", "fzshyb3.webp"]}
+  "images": ["fzshyb3.webp", "fzshyb1.webp","fzshybrid-icestorm.webp" ,"fzshyb2.webp"]}
 ,
 
 { "name": "FZX NOR (Black, Armada-Blue)",
   "price": 152739,
-  "images": ["fzxnor1.webp", "fzxnor2.webp"]}
+  "images": ["fzxnor2.webp", "fzxnor1.webp"]}
 ,
 
 { "name": "FZX HYBRID (Matt-Titan)",
@@ -48,7 +48,7 @@
 
 { "name": "XSR-155 Top (Black, Green, Blue)",
   "price": 197711,
-  "images": ["xsr3.webp", "xsr4.webp", "xsr5.webp"]}
+  "images": ["xsr5.webp","xsr3.webp", "xsr4.webp"]}
 ,
 
 { "name": "MT 15 STD (Black)",
@@ -68,7 +68,7 @@
 
 { "name": "MT 15 V2 NEW DLX (Black, Violet, Cyan-White)",
   "price": 212402,
-  "images": ["mtnewdlx1.webp", "mtnewdlx2.webp", "mtnewdlx3.webp"]}
+  "images": ["mtnewdlx1.webp", "mtnewdlx3.webp", "mtnewdlx2.webp","mt-white vermilion.webp"]}
 ,
 
 { "name": "R15-V4 (Black, White - Without Quick-Shifter)",
@@ -118,12 +118,12 @@
 
 { "name": "New Fascino HYBRID DRUM (Red, Black,White)",
   "price": 101356,
-  "images": ["fascinodrum1.webp", "fascinodrum2.webp", "fascinodrum3.webp"]}
+  "images": ["fascinodrum2.webp", "fascinodrum1.webp", "fascinodrum3.webp"]}
 ,
 
 { "name": "New Fascino HYBRID DISC (Armada, Cool Blue, Light Green)",
   "price": 112778,
-  "images": ["fascinodisk1.webp", "fascinodisk2.webp", "fascinodisk3.webp"]}
+  "images": ["fascinodisk3.webp", "fascinodisk2.webp", "fascinodisk1.webp"]}
 ,
 
 { "name": "New Fascino HYBRID S (Matt Black, Matt Gray)",
@@ -138,7 +138,7 @@
 
 { "name": "RAY ZR DI (Armada-Blue, Black, White)",
   "price": 109015,
-  "images": ["rayzrdiscmetallicblack_disc.webp", "rayzrdidlx2.webp", "rayzrdiscwhite.webp"]}
+  "images": ["rayzrdidlx2.webp", "rayzrdiscmetallicblack_disc.webp", "rayzrdiscwhite.webp"]}
 ,
 
 { "name": "RAY ZR STREET RALLY LCD (Black, White)",
