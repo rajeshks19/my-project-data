@@ -1,22 +1,18 @@
 {
   "bikes": [
     {
-      "name": "FZ BLUE FLEX (Black)",
-
+      "name": "FZFI V3",
       "engine": {
-        "Engine Type": "Liquid-cooled, 4-stroke, SOHC, 4-valve",
-        "Displacement": "155 CC",
-        "Bore & Stroke": "58.0 mm × 58.7 mm",
-        "Compression Ratio": "11.6 : 1",
-        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
-        "E20 Compatible": "Yes",
-        "Clutch Type": "Wet, Multiple Disc",
-        "Transmission Type": "Constant mesh, 6-speed",
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "149 cc",
+        "Bore & Stroke": "57.3 mm × 57.9 mm",
+        "Compression Ratio": "9.6 : 1",
+        "Maximum Horsepower": "9.1 kW (12.4 PS) / 7250 r/min",
+        "Maximum Torque": "13.3 N.m (1.4 kgf.m) / 5500 r/min",
         "Starting System Type": "Electric starter",
-        "Maximum Torque": "14.1 N.m (1.4 kgf.m) / 7500 r/min",
-        "Fuel System": "Fuel injection"
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 5-speed"
       },
-
       "dimensions": {
         "Overall Length": "1990 mm",
         "Overall Width": "780 mm",
@@ -24,28 +20,1436 @@
         "Wheelbase": "1330 mm",
         "Ground Clearance": "165 mm",
         "Seat Height": "790 mm",
-        "Kerb Weight": "139 kg",
+        "Kerb Weight": "134 kg",
         "Fuel Tank Capacity": "13 L"
       },
-
       "chassis": {
-        "Frame Type": "Diamond",
         "Front Suspension": "Telescopic Fork",
-        "Rear Suspension": "7-step Adjustable Monocross",
-        "Front Brake": "Disc (282 mm)",
-        "Rear Brake": "Disc (220 mm)",
-        "Front Tyre": "100/80-17 M/C 52P",
-        "Rear Tyre": "140/60R17 M/C 63P",
+        "Rear Suspension": "7-Step Adjustable Monocross Suspension",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/60R17 M/C 63P Radial Tubeless",
         "ABS": "Single Channel ABS"
       },
-
       "otherInfo": {
-        "Battery": "12V, 5.0 Ah (MF)",
         "Headlight": "LED",
-        "Taillight": "LED",
-        "Instrument Cluster": "LCD",
+        "Battery": "12 V",
         "Fuel Type": "Petrol",
+        "E20 Compatible": "Yes",
+        "Side Stand Engine Cut-Off": "Equipped"
+      }
+    },
+    {
+      "name": "FZ-RAVE (Titan, Black)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "149 cc",
+        "Bore & Stroke": "57.3 mm × 57.9 mm",
+        "Compression Ratio": "9.6 : 1",
+        "Maximum Horsepower": "9.1 kW (12.4 PS) / 7250 r/min",
+        "Maximum Torque": "13.3 N.m (1.4 kgf.m) / 5500 r/min",
+        "Starting System Type": "Electric starter",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 5-speed"
+      },
+      "dimensions": {
+        "Overall Length": "1990 mm",
+        "Overall Width": "780 mm",
+        "Overall Height": "1080 mm",
+        "Wheelbase": "1330 mm",
+        "Ground Clearance": "165 mm",
+        "Seat Height": "790 mm",
+        "Kerb Weight": "136 kg",
+        "Fuel Tank Capacity": "13 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "Swingarm",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/60R17 M/C 63P Tubeless",
+        "ABS": "Single Channel ABS"
+      },
+      "otherInfo": {
+        "Headlight": "LED",
+        "Battery": "12V, 3.0Ah",
+        "Fuel Type": "Petrol",
+        "E20 Compatible": "Yes",
+        "Side Stand Engine Cut-Off": "Equipped"
+      }
+    },
+    {
+      "name": "FZ BLUE FLEX (Black)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "149 cc",
+        "Bore & Stroke": "57.3 mm × 57.9 mm",
+        "Compression Ratio": "9.6 : 1",
+        "Maximum Horsepower": "9.1 kW (12.4 PS) / 7250 r/min",
+        "Maximum Torque": "13.3 N.m (1.4 kgf.m) / 5500 r/min",
+        "Starting System Type": "Electric starter",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 5-speed"
+      },
+      "dimensions": {
+        "Overall Length": "2000 mm",
+        "Overall Width": "780 mm",
+        "Overall Height": "1065 mm",
+        "Wheelbase": "1330 mm",
+        "Ground Clearance": "135 mm",
+        "Seat Height": "790 mm",
+        "Kerb Weight": "139 kg"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "7-Step Adjustable Monocross Suspension",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/60R17 M/C 63P Radial Tubeless",
+        "ABS": "Single Channel ABS"
+      },
+      "otherInfo": {
+        "Headlight": "LED",
+        "Battery": "12 V",
+        "Fuel Type": "Petrol",
+        "E20 Compatible": "Yes",
+        "Side Stand Engine Cut-Off": "Equipped",
+        "Fuel Tank Capacity": "12 L"
+      }
+    },
+    {
+      "name": "FZS V4 STD(Gray, White, Green, Black)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "149 cc",
+        "Bore & Stroke": "57.3 mm × 57.9 mm",
+        "Compression Ratio": "9.6 : 1",
+        "Maximum Horsepower": "9.1 kW (12.4 PS) / 7250 r/min",
+        "Maximum Torque": "13.3 N.m (1.4 kgf.m) / 5500 r/min",
+        "Starting System Type": "Electric starter",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 5-speed"
+      },
+      "dimensions": {
+        "Overall Length": "2000 mm",
+        "Overall Width": "780 mm",
+        "Overall Height": "1080 mm",
+        "Wheelbase": "1330 mm",
+        "Ground Clearance": "165 mm",
+        "Seat Height": "790 mm",
+        "Kerb Weight": "135 kg",
+        "Fuel Tank Capacity": "13 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "7-Step Adjustable Monocross Suspension",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/60R17 M/C 63P Radial Tubeless",
+        "ABS": "Single Channel ABS"
+      },
+      "otherInfo": {
+        "Headlight": "LED",
+        "Battery": "12 V",
+        "Fuel Type": "Petrol",
+        "E20 Compatible": "Yes",
+        "Side Stand Engine Cut-Off": "Equipped",
+        "Taillight": "LED",
+        "Y-Connect": "Equipped",
+        "Traction Control": "Equipped"
+      }
+    },
+    {
+      "name": "FZS V4 HYBRID DLX(Matt Black, Cyan, Ice Storm)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "149 cc",
+        "Bore & Stroke": "57.3 mm × 57.9 mm",
+        "Compression Ratio": "9.6 : 1",
+        "Maximum Horsepower": "9.1 kW (12.4 PS) / 7250 r/min",
+        "Maximum Torque": "13.3 N.m (1.4 kgf.m) / 5500 r/min",
+        "Starting System Type": "Electric starter",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 5-speed",
+        "Smart Motor Generator": "Equipped",
+        "Stop & Start System": "Equipped",
+        "Power Assist": "Equipped"
+      },
+      "dimensions": {
+        "Overall Length": "2000 mm",
+        "Overall Width": "780 mm",
+        "Overall Height": "1090 mm",
+        "Wheelbase": "1330 mm",
+        "Ground Clearance": "165 mm",
+        "Seat Height": "790 mm",
+        "Kerb Weight": "138 kg",
+        "Fuel Tank Capacity": "13 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "7-Step Adjustable Monocross Suspension",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/60R17 M/C 63P Radial Tubeless",
+        "ABS": "Single Channel ABS"
+      },
+      "otherInfo": {
+        "Headlight": "LED",
+        "Battery": "12 V",
+        "Fuel Type": "Petrol",
+        "E20 Compatible": "Yes",
+        "Side Stand Engine Cut-Off": "Equipped",
+        "Color TFT Meter": "Equipped",
+        "Turn-by-Turn Navigation": "Equipped",
+        "Music Control": "Equipped",
+        "Y-Connect": "Enabled",
+        "Traction Control": "Equipped",
+        "Fuel Tank Capacity": "13 L"
+      }
+    },
+    {
+      "name": "FZX NOR (Black, Armada-Blue)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "149 cc",
+        "Bore & Stroke": "57.3 mm × 57.9 mm",
+        "Compression Ratio": "9.6 : 1",
+        "Maximum Horsepower": "9.1 kW (12.4 PS) / 7250 r/min",
+        "Maximum Torque": "13.3 N.m (1.4 kgf.m) / 5500 r/min",
+        "Starting System Type": "Electric starter",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 5-speed",
+        "Ignition": "TCI (Transistor Controlled Ignition)"
+      },
+      "dimensions": {
+        "Overall Length": "2020 mm",
+        "Overall Width": "785 mm",
+        "Overall Height": "1100 mm",
+        "Wheelbase": "1330 mm",
+        "Ground Clearance": "165 mm",
+        "Seat Height": "810 mm",
+        "Kerb Weight": "139 kg",
+        "Fuel Tank Capacity": "10 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "7-Step Adjustable Monocross Suspension",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/60R17 M/C 63P Radial Tubeless",
+        "ABS": "Single Channel ABS"
+      },
+      "otherInfo": {
+        "Headlight": "LED",
+        "Battery": "12 V",
+        "Fuel Type": "Petrol",
+        "E20 Compatible": "Yes",
+        "Side Stand Engine Cut-Off": "Equipped",
+        "Y-Connect": "Equipped"
+      }
+    },
+    {
+      "name": "FZX HYBRID (Matt-Titan)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "149 cc",
+        "Bore & Stroke": "57.3 mm × 57.9 mm",
+        "Compression Ratio": "9.6 : 1",
+        "Maximum Horsepower": "9.1 kW (12.4 PS) / 7250 r/min",
+        "Maximum Torque": "13.3 N.m (1.4 kgf.m) / 5500 r/min",
+        "Starting System Type": "Electric starter",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 5-speed",
+        "Smart Motor Generator": "Equipped",
+        "Stop & Start System": "Equipped",
+        "Power Assist": "Equipped"
+      },
+      "dimensions": {
+        "Overall Length": "2020 mm",
+        "Overall Width": "785 mm",
+        "Overall Height": "1100 mm",
+        "Wheelbase": "1330 mm",
+        "Ground Clearance": "165 mm",
+        "Seat Height": "810 mm",
+        "Kerb Weight": "141 kg",
+        "Fuel Tank Capacity": "10 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "7-Step Adjustable Monocross Suspension",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/60R17 M/C 63P Radial Tubeless",
+        "ABS": "Single Channel ABS"
+      },
+      "otherInfo": {
+        "Headlight": "LED",
+        "Battery": "12 V",
+        "Fuel Type": "Petrol",
+        "E20 Compatible": "Yes",
+        "Side Stand Engine Cut-Off": "Equipped",
+        "Color TFT Meter": "Equipped",
+        "Turn-by-Turn Navigation": "Equipped",
+        "Music Control": "Equipped",
+        "Y-Connect": "Enabled",
+        "Traction Control": "Equipped",
+        "Fuel Tank Capacity": "13 L"
+      }
+    },
+    {
+      "name": "XSR-155 Base (Red)",
+      "engine": {
+        "Engine Type": "Liquid cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.2 N.m (1.4 kgf.m) / 7500 r/min",
+        "Fuel System": "Fuel Injection",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Starting System Type": "Electric starter",
+        "Transmission Type": "Constant mesh, 6-speed"
+      },
+      "dimensions": {
+        "Overall Length": "2005 mm",
+        "Overall Width": "805 mm",
+        "Overall Height": "1080 mm",
+        "Ground Clearance": "120 mm",
+        "Seat Height": "810 mm",
+        "Wheelbase": "1325 mm",
+        "Kerb Weight": "137 kg",
+        "Fuel Tank Capacity": "10 L"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Front Fork",
+        "Rear Suspension": "Swingarm (link suspension)",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/70R17 M/C 66H Radial Tubeless",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12V, 4.0Ah",
+        "Headlight": "LED",
+        "Brake/Tail Light": "LED",
+        "VVA": "Equipped",
+        "Y-Connect": "Equipped",
+        "Traction Control": "Equipped",
         "E20 Compatible": "Yes"
+      }
+    },
+    {
+      "name": "XSR-155 Mid (Silver)",
+      "engine": {
+        "Engine Type": "Liquid cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.2 N.m (1.4 kgf.m) / 7500 r/min",
+        "Fuel System": "Fuel Injection",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Starting System Type": "Electric starter",
+        "Transmission Type": "Constant mesh, 6-speed"
+      },
+      "dimensions": {
+        "Overall Length": "2005 mm",
+        "Overall Width": "805 mm",
+        "Overall Height": "1080 mm",
+        "Ground Clearance": "120 mm",
+        "Seat Height": "810 mm",
+        "Wheelbase": "1325 mm",
+        "Kerb Weight": "137 kg",
+        "Fuel Tank Capacity": "10 L"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Front Fork",
+        "Rear Suspension": "Swingarm (link suspension)",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/70R17 M/C 66H Radial Tubeless",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12V, 4.0Ah",
+        "Headlight": "LED",
+        "Brake/Tail Light": "LED",
+        "VVA": "Equipped",
+        "Y-Connect": "Equipped",
+        "Traction Control": "Equipped",
+        "E20 Compatible": "Yes"
+      }
+    },
+    {
+      "name": "XSR-155 Top (Black, Green, Blue)",
+      "engine": {
+        "Engine Type": "Liquid cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.2 N.m (1.4 kgf.m) / 7500 r/min",
+        "Fuel System": "Fuel Injection",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Starting System Type": "Electric starter",
+        "Transmission Type": "Constant mesh, 6-speed"
+      },
+      "dimensions": {
+        "Overall Length": "2005 mm",
+        "Overall Width": "805 mm",
+        "Overall Height": "1080 mm",
+        "Ground Clearance": "120 mm",
+        "Seat Height": "810 mm",
+        "Wheelbase": "1325 mm",
+        "Kerb Weight": "137 kg",
+        "Fuel Tank Capacity": "10 L"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Front Fork",
+        "Rear Suspension": "Swingarm (link suspension)",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/70R17 M/C 66H Radial Tubeless",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12V, 4.0Ah",
+        "Headlight": "LED",
+        "Brake/Tail Light": "LED",
+        "VVA": "Equipped",
+        "Y-Connect": "Equipped",
+        "Traction Control": "Equipped",
+        "E20 Compatible": "Yes"
+      }
+    },
+    {
+      "name": "MT 15 STD (Black)",
+      "engine": {
+        "Engine Type": "Liquid cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.1 N.m (1.4 kgf.m) / 7500 r/min",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "Starting System Type": "Electric starter"
+      },
+      "dimensions": {
+        "Overall Length": "2015 mm",
+        "Overall Width": "800 mm",
+        "Overall Height": "1070 mm",
+        "Wheelbase": "1325 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "810 mm",
+        "Kerb Weight": "141 kg",
+        "Fuel Tank Capacity": "10 L"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Front Fork",
+        "Rear Suspension": "Linked-type Monocross",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12 V, 4.0 Ah",
+        "Headlight": "Bi-functional LED",
+        "Taillight": "LED",
+        "Y-Connect": "Equipped",
+        "VVA": "Equipped",
+        "Traction Control": "Equipped",
+        "Gear Position Indicator": "Equipped",
+        "E20 Compatible": "Yes"
+      }
+    },
+    {
+      "name": "MT15 V2-NEW STD(Cyan)",
+      "engine": {
+        "Engine Type": "Liquid cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.1 N.m (1.4 kgf.m) / 7500 r/min",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "Starting System Type": "Electric starter"
+      },
+      "dimensions": {
+        "Overall Length": "2015 mm",
+        "Overall Width": "800 mm",
+        "Overall Height": "1070 mm",
+        "Wheelbase": "1325 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "810 mm",
+        "Kerb Weight": "141 kg",
+        "Fuel Tank Capacity": "10 L"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Front Fork",
+        "Rear Suspension": "Linked-type Monocross",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12 V, 4.0 Ah",
+        "Headlight": "Bi-functional LED",
+        "Taillight": "LED",
+        "Y-Connect": "Equipped",
+        "VVA": "Equipped",
+        "Traction Control": "Equipped",
+        "Gear Position Indicator": "Equipped",
+        "E20 Compatible": "Yes"
+      }
+    },
+    {
+      "name": "MT 15 V2 -MONSTER",
+      "engine": {
+        "Engine Type": "Liquid cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.1 N.m (1.4 kgf.m) / 7500 r/min",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "Starting System Type": "Electric starter"
+      },
+      "dimensions": {
+        "Overall Length": "2015 mm",
+        "Overall Width": "800 mm",
+        "Overall Height": "1070 mm",
+        "Wheelbase": "1325 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "810 mm",
+        "Kerb Weight": "141 kg",
+        "Fuel Tank Capacity": "10 L"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Front Fork",
+        "Rear Suspension": "Linked-type Monocross",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12 V, 4.0 Ah",
+        "Headlight": "Bi-functional LED",
+        "Taillight": "LED",
+        "Y-Connect": "Equipped",
+        "VVA": "Equipped",
+        "Traction Control": "Equipped",
+        "Gear Position Indicator": "Equipped",
+        "E20 Compatible": "Yes"
+      }
+    },
+    {
+      "name": "MT 15 V2 NEW DLX (Black, Violet, Cyan-White)",
+      "engine": {
+        "Engine Type": "Liquid cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.1 N.m (1.4 kgf.m) / 7500 r/min",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "Starting System Type": "Electric starter"
+      },
+      "dimensions": {
+        "Overall Length": "2015 mm",
+        "Overall Width": "800 mm",
+        "Overall Height": "1070 mm",
+        "Wheelbase": "1325 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "810 mm",
+        "Kerb Weight": "141 kg",
+        "Fuel Tank Capacity": "10 L"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Front Fork",
+        "Rear Suspension": "Linked-type Monocross",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12 V, 4.0 Ah",
+        "Headlight": "Bi-functional LED",
+        "Taillight": "LED",
+        "Y-Connect": "Equipped",
+        "VVA": "Equipped",
+        "Traction Control": "Equipped",
+        "Gear Position Indicator": "Equipped",
+        "E20 Compatible": "Yes"
+      }
+    },
+    {
+      "name": "R15-V4 (Black, White - Without Quick-Shifter)",
+      "engine": {
+        "Engine Type": "Liquid-cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.2 N.m (1.4 kgf.m) / 7500 r/min",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "Starting System Type": "Electric starter"
+      },
+      "dimensions": {
+        "Overall Length": "1990 mm",
+        "Overall Width": "725 mm",
+        "Overall Height": "1135 mm",
+        "Wheelbase": "1325 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "815 mm",
+        "Kerb Weight": "141 kg",
+        "Fuel Tank Capacity": "11 L"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Fork (USD Fork)",
+        "Rear Suspension": "Linked-Type Monocross Suspension",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/70R17 M/C 66H Radial Tubeless",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12 V, 4.0 Ah",
+        "Headlight": "Bi-functional LED",
+        "Position Light": "LED",
+        "Brake/Tail Light": "LED",
+        "Speedometer": "Digital",
+        "Tachometer": "Digital",
+        "Fuel Meter": "Digital",
+        "Gear Position Indicator": "Equipped",
+        "VVA": "Equipped",
+        "Y-Connect": "Equipped",
+        "Traction Control": "Equipped",
+        "E20 Compatible": "Yes"
+      }
+    },
+    {
+      "name": "R15 V4 (Blue, White - With Quick-Shifter)",
+      "engine": {
+        "Engine Type": "Liquid-cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.2 N.m (1.4 kgf.m) / 7500 r/min",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "Starting System Type": "Electric starter"
+      },
+      "dimensions": {
+        "Overall Length": "1990 mm",
+        "Overall Width": "725 mm",
+        "Overall Height": "1135 mm",
+        "Wheelbase": "1325 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "815 mm",
+        "Kerb Weight": "141 kg",
+        "Fuel Tank Capacity": "11 L"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Fork (USD Fork)",
+        "Rear Suspension": "Linked-Type Monocross Suspension",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/70R17 M/C 66H Radial Tubeless",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12 V, 4.0 Ah",
+        "Headlight": "Bi-functional LED",
+        "Position Light": "LED",
+        "Brake/Tail Light": "LED",
+        "Speedometer": "Digital",
+        "Tachometer": "Digital",
+        "Fuel Meter": "Digital",
+        "Gear Position Indicator": "Equipped",
+        "VVA": "Equipped",
+        "Y-Connect": "Equipped",
+        "Traction Control": "Equipped",
+        "E20 Compatible": "Yes",
+        "Quick Shifter": "Equipped"
+      }
+    },
+    {
+      "name": "R15 M SILVER",
+      "engine": {
+        "Engine Type": "Liquid-cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.2 N.m (1.4 kgf.m) / 7500 r/min",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "Starting System Type": "Electric starter"
+      },
+      "dimensions": {
+        "Overall Length": "1990 mm",
+        "Overall Width": "725 mm",
+        "Overall Height": "1135 mm",
+        "Wheelbase": "1325 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "815 mm",
+        "Kerb Weight": "141 kg",
+        "Fuel Tank Capacity": "11 L"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Fork (USD Fork)",
+        "Rear Suspension": "Linked-Type Monocross Suspension",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/70R17 M/C 66H Radial Tubeless",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12 V, 4.0 Ah",
+        "Headlight": "Bi-functional LED",
+        "Position Light": "LED",
+        "Brake/Tail Light": "LED",
+        "Speedometer": "Digital",
+        "Tachometer": "Digital",
+        "Fuel Meter": "Digital",
+        "Gear Position Indicator": "Equipped",
+        "VVA": "Equipped",
+        "Y-Connect": "Equipped",
+        "Traction Control": "Equipped",
+        "E20 Compatible": "Yes",
+        "Color TFT Meter": "Equipped",
+        "Turn-by-Turn Navigation & Music Control": "Equipped",
+        "Riding Modes": "Track Mode / Street Mode",
+        "Quick Shifter": "Equipped"
+      }
+    },
+    {
+      "name": "R15 M MOTO-GP",
+      "engine": {
+        "Engine Type": "Liquid-cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.2 N.m (1.4 kgf.m) / 7500 r/min",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "Starting System Type": "Electric starter"
+      },
+      "dimensions": {
+        "Overall Length": "1990 mm",
+        "Overall Width": "725 mm",
+        "Overall Height": "1135 mm",
+        "Wheelbase": "1325 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "815 mm",
+        "Kerb Weight": "141 kg",
+        "Fuel Tank Capacity": "11 L"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Fork (USD Fork)",
+        "Rear Suspension": "Linked-Type Monocross Suspension",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/70R17 M/C 66H Radial Tubeless",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12 V, 4.0 Ah",
+        "Headlight": "Bi-functional LED",
+        "Position Light": "LED",
+        "Brake/Tail Light": "LED",
+        "Speedometer": "Digital",
+        "Tachometer": "Digital",
+        "Fuel Meter": "Digital",
+        "Gear Position Indicator": "Equipped",
+        "VVA": "Equipped",
+        "Y-Connect": "Equipped",
+        "Traction Control": "Equipped",
+        "E20 Compatible": "Yes",
+        "Color TFT Meter": "Equipped",
+        "Turn-by-Turn Navigation & Music Control": "Equipped",
+        "Riding Modes": "Track Mode / Street Mode",
+        "Quick Shifter": "Equipped"
+      }
+    },
+    {
+      "name": "R15 M ICON",
+      "engine": {
+        "Engine Type": "Liquid-cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.2 N.m (1.4 kgf.m) / 7500 r/min",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "Starting System Type": "Electric starter"
+      },
+      "dimensions": {
+        "Overall Length": "1990 mm",
+        "Overall Width": "725 mm",
+        "Overall Height": "1135 mm",
+        "Wheelbase": "1325 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "815 mm",
+        "Kerb Weight": "141 kg",
+        "Fuel Tank Capacity": "11 L"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Fork (USD Fork)",
+        "Rear Suspension": "Linked-Type Monocross Suspension",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/70R17 M/C 66H Radial Tubeless",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12 V, 4.0 Ah",
+        "Headlight": "Bi-functional LED",
+        "Position Light": "LED",
+        "Brake/Tail Light": "LED",
+        "Speedometer": "Digital",
+        "Tachometer": "Digital",
+        "Fuel Meter": "Digital",
+        "Gear Position Indicator": "Equipped",
+        "VVA": "Equipped",
+        "Y-Connect": "Equipped",
+        "Traction Control": "Equipped",
+        "E20 Compatible": "Yes",
+        "Color TFT Meter": "Equipped",
+        "Turn-by-Turn Navigation & Music Control": "Equipped",
+        "Riding Modes": "Track Mode / Street Mode",
+        "Quick Shifter": "Equipped"
+      }
+    },
+    {
+      "name": "R15 S",
+      "engine": {
+        "Engine Type": "Liquid-cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "Maximum Torque": "14.2 N.m (1.4 kgf.m) / 7500 r/min",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Fuel System": "Fuel Injection",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "Starting System Type": "Electric starter"
+      },
+      "dimensions": {
+        "Overall Length": "1990 mm",
+        "Overall Width": "725 mm",
+        "Overall Height": "1135 mm",
+        "Wheelbase": "1325 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "815 mm",
+        "Kerb Weight": "141 kg",
+        "Fuel Tank Capacity": "11 L",
+        "Wet Weight": "142 kg"
+      },
+      "chassis": {
+        "Frame Type": "Deltabox",
+        "Front Suspension": "Telescopic Upside Down Fork (USD Fork)",
+        "Rear Suspension": "Linked-Type Monocross Suspension",
+        "Front Brake": "Disc Brake (282 mm)",
+        "Rear Brake": "Disc Brake (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P Tubeless",
+        "Rear Tyre": "140/70R17 M/C 66H Radial Tubeless",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "12 V, 4.0 Ah",
+        "Headlight": "Bi-functional LED",
+        "Position Light": "LED",
+        "Brake/Tail Light": "LED",
+        "Speedometer": "Digital",
+        "Tachometer": "Digital",
+        "Fuel Meter": "Digital",
+        "Gear Position Indicator": "Equipped",
+        "VVA": "Equipped",
+        "Y-Connect": "Equipped",
+        "Traction Control": "Equipped",
+        "E20 Compatible": "Yes",
+        "Unibody Seat": "Equipped"
+      }
+    },
+    {
+      "name": "YZF R2 STD (Black, Dark-Grey)",
+      "engine": {
+        "Engine Type": "Liquid cooled, 4-stroke, DOHC, 4-valve",
+        "Displacement": "204 cc",
+        "Bore & Stroke": "66.0 mm × 59.6 mm",
+        "Compression Ratio": "11.5 : 1",
+        "Maximum Horsepower": "26.5 PS (19.5 kW) / 10000 r/min",
+        "Maximum Torque": "19.1 N.m / 8000 r/min",
+        "Fuel System": "Fuel Injection",
+        "Clutch Type": "Wet, multiple-disc",
+        "Starting System Type": "Electric starter",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "E20 Compatible": "Yes"
+      },
+      "dimensions": {
+        "Overall Length": "1980 mm",
+        "Overall Width": "700 mm",
+        "Overall Height": "1140 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "810 mm",
+        "Wheelbase": "1340 mm",
+        "Kerb Weight": "150 kg",
+        "Fuel Tank Capacity": "12 L"
+      },
+      "chassis": {
+        "Frame Type": "Backbone (Steel Tube Diamond Frame)",
+        "Front Suspension": "Telescopic Upside Down Fork (USD Fork)",
+        "Front Fork Inner Tube Diameter": "37.0 mm",
+        "Front Brake": "282 mm Disc",
+        "Rear Brake": "220 mm Disc",
+        "Front Tyre": "100/80-17 M/C 52S Tubeless",
+        "Rear Tyre": "140/70R17 M/C 66H Tubeless",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Instrumentation": "TFT",
+        "Y-Connect": "Equipped",
+        "Riding Modes": "Track / Street / Rain",
+        "Traction Control": "Equipped"
+      }
+    },
+    {
+      "name": "YZF R2 Quick-Shifter  (Blue, White)",
+      "engine": {
+        "Engine Type": "Liquid cooled, 4-stroke, DOHC, 4-valve",
+        "Displacement": "204 cc",
+        "Bore & Stroke": "66.0 mm × 59.6 mm",
+        "Compression Ratio": "11.5 : 1",
+        "Maximum Horsepower": "26.5 PS (19.5 kW) / 10000 r/min",
+        "Maximum Torque": "19.1 N.m / 8000 r/min",
+        "Fuel System": "Fuel Injection",
+        "Clutch Type": "Wet, multiple-disc",
+        "Starting System Type": "Electric starter",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "E20 Compatible": "Yes"
+      },
+      "dimensions": {
+        "Overall Length": "1980 mm",
+        "Overall Width": "700 mm",
+        "Overall Height": "1140 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "810 mm",
+        "Wheelbase": "1340 mm",
+        "Kerb Weight": "150 kg",
+        "Fuel Tank Capacity": "12 L"
+      },
+      "chassis": {
+        "Frame Type": "Backbone (Steel Tube Diamond Frame)",
+        "Front Suspension": "Telescopic Upside Down Fork (USD Fork)",
+        "Front Fork Inner Tube Diameter": "37.0 mm",
+        "Front Brake": "282 mm Disc",
+        "Rear Brake": "220 mm Disc",
+        "Front Tyre": "100/80-17 M/C 52S Tubeless",
+        "Rear Tyre": "140/70R17 M/C 66H Tubeless",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Instrumentation": "TFT",
+        "Y-Connect": "Equipped",
+        "Riding Modes": "Track / Street / Rain",
+        "Traction Control": "Equipped",
+        "Quick Shifter": "Equipped"
+      }
+    },
+    {
+      "name": "YZF R2M",
+      "engine": {
+        "Engine Type": "Liquid cooled, 4-stroke, DOHC, 4-valve",
+        "Displacement": "204 cc",
+        "Bore & Stroke": "66.0 mm × 59.6 mm",
+        "Compression Ratio": "11.5 : 1",
+        "Maximum Horsepower": "26.5 PS (19.5 kW) / 10000 r/min",
+        "Maximum Torque": "19.1 N.m / 8000 r/min",
+        "Fuel System": "Fuel Injection",
+        "Clutch Type": "Wet, multiple-disc",
+        "Starting System Type": "Electric starter",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "E20 Compatible": "Yes"
+      },
+      "dimensions": {
+        "Overall Length": "1980 mm",
+        "Overall Width": "700 mm",
+        "Overall Height": "1140 mm",
+        "Ground Clearance": "170 mm",
+        "Seat Height": "810 mm",
+        "Wheelbase": "1340 mm",
+        "Kerb Weight": "150 kg",
+        "Fuel Tank Capacity": "12 L"
+      },
+      "chassis": {
+        "Frame Type": "Backbone (Steel Tube Diamond Frame)",
+        "Front Suspension": "Telescopic Upside Down Fork (USD Fork)",
+        "Front Fork Inner Tube Diameter": "37.0 mm",
+        "Front Brake": "282 mm Disc",
+        "Rear Brake": "220 mm Disc",
+        "Front Tyre": "100/80-17 M/C 52S Tubeless",
+        "Rear Tyre": "140/70R17 M/C 66H Tubeless",
+        "ABS": "Dual Channel ABS"
+      },
+      "otherInfo": {
+        "Instrumentation": "TFT",
+        "Y-Connect": "Equipped",
+        "Riding Modes": "3 Riding Modes",
+        "Traction Control": "Equipped"
+      }
+    },
+    {
+      "name": "New Fascino HYBRID DRUM (Red, Black,White)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "125 cc",
+        "Bore & Stroke": "52.4 × 57.9 mm",
+        "Compression Ratio": "10.2 : 1",
+        "Maximum Horsepower": "6.0 kW (8.2 PS) / 6500 r/min",
+        "Maximum Torque": "13.3 N.m (1.1 kgf.m) / 5000 r/min",
+        "Fuel System": "Fuel Injection",
+        "Starting System Type": "Electric starter",
+        "Transmission Type": "V-belt automatic",
+        "Stop & Start System": "Equipped",
+        "Smart Motor Generator": "Equipped"
+      },
+      "dimensions": {
+        "Overall Length": "1920 mm",
+        "Overall Width": "685 mm",
+        "Overall Height": "1150 mm",
+        "Seat Height": "780 mm",
+        "Wheelbase": "1280 mm",
+        "Ground Clearance": "145 mm",
+        "Kerb Weight": "98 kg",
+        "Fuel Tank Capacity": "5.2 L",
+        "Underseat Storage": "21 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "Unit Swing",
+        "Front Tyre": "90/90-12 Tubeless",
+        "Rear Tyre": "110/90-10 Tubeless",
+        "Front Brake": "Disc (190 mm) / Drum",
+        "Rear Brake": "Drum",
+        "UBS": "Equipped"
+      },
+      "otherInfo": {
+        "Battery": "Maintenance free - 12V, 5.0 Ah",
+        "Ignition System": "TCI (Transistor Controlled Ignition)",
+        "Headlight": "LED",
+        "Y-Connect": "Equipped",
+        "Side Stand Engine Cut-Off": "Equipped"
+      }
+    },
+    {
+      "name": "New Fascino HYBRID DISC (Armada, Cool Blue, Light Green)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "125 cc",
+        "Bore & Stroke": "52.4 × 57.9 mm",
+        "Compression Ratio": "10.2 : 1",
+        "Maximum Horsepower": "6.0 kW (8.2 PS) / 6500 r/min",
+        "Maximum Torque": "13.3 N.m (1.1 kgf.m) / 5000 r/min",
+        "Fuel System": "Fuel Injection",
+        "Starting System Type": "Electric starter",
+        "Transmission Type": "V-belt automatic",
+        "Stop & Start System": "Equipped",
+        "Smart Motor Generator": "Equipped"
+      },
+      "dimensions": {
+        "Overall Length": "1920 mm",
+        "Overall Width": "685 mm",
+        "Overall Height": "1150 mm",
+        "Seat Height": "780 mm",
+        "Wheelbase": "1280 mm",
+        "Ground Clearance": "145 mm",
+        "Kerb Weight": "98 kg",
+        "Fuel Tank Capacity": "5.2 L",
+        "Underseat Storage": "21 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "Unit Swing",
+        "Front Tyre": "90/90-12 Tubeless",
+        "Rear Tyre": "110/90-10 Tubeless",
+        "Front Brake": "Disc (190 mm) / Drum",
+        "Rear Brake": "Drum",
+        "UBS": "Equipped"
+      },
+      "otherInfo": {
+        "Battery": "Maintenance free - 12V, 5.0 Ah",
+        "Ignition System": "TCI (Transistor Controlled Ignition)",
+        "Headlight": "LED",
+        "Y-Connect": "Equipped",
+        "Side Stand Engine Cut-Off": "Equipped"
+      }
+    },
+    {
+      "name": "New Fascino HYBRID S (Matt Black, Matt Gray)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "125 cc",
+        "Bore & Stroke": "52.4 × 57.9 mm",
+        "Compression Ratio": "10.2 : 1",
+        "Maximum Horsepower": "6.0 kW (8.2 PS) / 6500 r/min",
+        "Maximum Torque": "13.3 N.m (1.1 kgf.m) / 5000 r/min",
+        "Fuel System": "Fuel Injection",
+        "Starting System Type": "Electric starter",
+        "Transmission Type": "V-belt automatic",
+        "Stop & Start System": "Equipped",
+        "Smart Motor Generator": "Equipped"
+      },
+      "dimensions": {
+        "Overall Length": "1920 mm",
+        "Overall Width": "685 mm",
+        "Overall Height": "1150 mm",
+        "Seat Height": "780 mm",
+        "Wheelbase": "1280 mm",
+        "Ground Clearance": "145 mm",
+        "Kerb Weight": "98 kg",
+        "Fuel Tank Capacity": "5.2 L",
+        "Underseat Storage": "21 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "Unit Swing",
+        "Front Tyre": "90/90-12 Tubeless",
+        "Rear Tyre": "110/90-10 Tubeless",
+        "Front Brake": "Disc (190 mm) / Drum",
+        "Rear Brake": "Drum",
+        "UBS": "Equipped"
+      },
+      "otherInfo": {
+        "Battery": "Maintenance free - 12V, 5.0 Ah",
+        "Ignition System": "TCI (Transistor Controlled Ignition)",
+        "Headlight": "LED",
+        "Y-Connect": "Equipped",
+        "Side Stand Engine Cut-Off": "Equipped"
+      }
+    },
+    {
+      "name": "RAY ZR DR (Black)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "125 cc",
+        "Bore & Stroke": "52.4 × 57.9 mm",
+        "Compression Ratio": "10.2 : 1",
+        "Maximum Horsepower": "6.0 kW (8.2 PS) / 6500 r/min",
+        "Maximum Torque": "10.3 N.m (1.0 kgf.m) / 5000 r/min",
+        "Fuel System": "Fuel Injection",
+        "Starting System Type": "Electric starter and kick starter",
+        "Transmission Type": "V-belt automatic",
+        "Hybrid": "Equipped",
+        "Stop & Start System": "Equipped",
+        "Smart Motor Generator": "Equipped"
+      },
+      "dimensions": {
+        "Overall Length": "1880 mm",
+        "Overall Width": "685 mm",
+        "Overall Height": "1190 mm",
+        "Seat Height": "785 mm",
+        "Wheelbase": "1280 mm",
+        "Ground Clearance": "145 mm",
+        "Kerb Weight": "99 kg",
+        "Fuel Tank Capacity": "5.2 L",
+        "Underseat Storage": "21 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "Unit Swing",
+        "Front Tyre": "90/90-12 Tubeless",
+        "Rear Tyre": "110/90-10 Tubeless",
+        "Front Brake": "190 mm",
+        "Rear Brake": "Drum",
+        "UBS": "Equipped"
+      },
+      "otherInfo": {
+        "Battery": "Maintenance free - 12V, 5.0 Ah",
+        "Ignition System": "TCI (Transistor Controlled Ignition)",
+        "Headlight": "LED",
+        "Position Light": "LED",
+        "Speedometer": "Digital",
+        "Side Stand Engine Cut-Off": "Equipped",
+        "Bluetooth": "Yamaha Motorcycle Connect X"
+      }
+    },
+    {
+      "name": "RAY ZR DI (Armada-Blue, Black, White)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "125 cc",
+        "Bore & Stroke": "52.4 × 57.9 mm",
+        "Compression Ratio": "10.2 : 1",
+        "Maximum Horsepower": "6.0 kW (8.2 PS) / 6500 r/min",
+        "Maximum Torque": "10.3 N.m (1.0 kgf.m) / 5000 r/min",
+        "Fuel System": "Fuel Injection",
+        "Starting System Type": "Electric starter and kick starter",
+        "Transmission Type": "V-belt automatic",
+        "Hybrid": "Equipped",
+        "Stop & Start System": "Equipped",
+        "Smart Motor Generator": "Equipped"
+      },
+      "dimensions": {
+        "Overall Length": "1880 mm",
+        "Overall Width": "685 mm",
+        "Overall Height": "1190 mm",
+        "Seat Height": "785 mm",
+        "Wheelbase": "1280 mm",
+        "Ground Clearance": "145 mm",
+        "Kerb Weight": "99 kg",
+        "Fuel Tank Capacity": "5.2 L",
+        "Underseat Storage": "21 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "Unit Swing",
+        "Front Tyre": "90/90-12 Tubeless",
+        "Rear Tyre": "110/90-10 Tubeless",
+        "Front Brake": "190 mm",
+        "Rear Brake": "Drum",
+        "UBS": "Equipped"
+      },
+      "otherInfo": {
+        "Battery": "Maintenance free - 12V, 5.0 Ah",
+        "Ignition System": "TCI (Transistor Controlled Ignition)",
+        "Headlight": "LED",
+        "Position Light": "LED",
+        "Speedometer": "Digital",
+        "Side Stand Engine Cut-Off": "Equipped",
+        "Bluetooth": "Yamaha Motorcycle Connect X"
+      }
+    },
+    {
+      "name": "RAY ZR STREET RALLY LCD (Black, White)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "125 cc",
+        "Bore & Stroke": "52.4 × 57.9 mm",
+        "Compression Ratio": "10.2 : 1",
+        "Maximum Horsepower": "6.0 kW (8.2 PS) / 6500 r/min",
+        "Maximum Torque": "10.3 N.m (1.0 kgf.m) / 5000 r/min",
+        "Fuel System": "Fuel Injection",
+        "Starting System Type": "Electric starter and kick starter",
+        "Transmission Type": "V-belt automatic",
+        "Hybrid": "Equipped",
+        "Stop & Start System": "Equipped",
+        "Smart Motor Generator": "Equipped"
+      },
+      "dimensions": {
+        "Overall Length": "1880 mm",
+        "Overall Width": "750 mm",
+        "Overall Height": "1190 mm",
+        "Seat Height": "785 mm",
+        "Wheelbase": "1280 mm",
+        "Ground Clearance": "145 mm",
+        "Kerb Weight": "99 kg",
+        "Fuel Tank Capacity": "5.2 L",
+        "Underseat Storage": "21 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "Unit Swing",
+        "Front Tyre": "90/90-12 Tubeless",
+        "Rear Tyre": "110/90-10 Tubeless",
+        "Front Brake": "190 mm",
+        "Rear Brake": "Drum",
+        "UBS": "Equipped"
+      },
+      "otherInfo": {
+        "Battery": "Maintenance free - 12V, 5.0 Ah",
+        "Ignition System": "TCI (Transistor Controlled Ignition)",
+        "Headlight": "LED",
+        "Position Light": "LED",
+        "Speedometer": "Digital",
+        "Side Stand Engine Cut-Off": "Equipped",
+        "Bluetooth": "Yamaha Motorcycle Connect X"
+      }
+    },
+    {
+      "name": "RAY ZR STREET RALLY TFT  (Titan, Black)",
+      "engine": {
+        "Engine Type": "Air cooled, 4-stroke, SOHC, 2-valve",
+        "Displacement": "125 cc",
+        "Bore & Stroke": "52.4 × 57.9 mm",
+        "Compression Ratio": "10.2 : 1",
+        "Maximum Horsepower": "6.0 kW (8.2 PS) / 6500 r/min",
+        "Maximum Torque": "10.3 N.m (1.0 kgf.m) / 5000 r/min",
+        "Fuel System": "Fuel Injection",
+        "Starting System Type": "Electric starter and kick starter",
+        "Transmission Type": "V-belt automatic",
+        "Hybrid": "Equipped",
+        "Stop & Start System": "Equipped",
+        "Smart Motor Generator": "Equipped"
+      },
+      "dimensions": {
+        "Overall Length": "1880 mm",
+        "Overall Width": "750 mm",
+        "Overall Height": "1190 mm",
+        "Seat Height": "785 mm",
+        "Wheelbase": "1280 mm",
+        "Ground Clearance": "145 mm",
+        "Kerb Weight": "99 kg",
+        "Fuel Tank Capacity": "5.2 L",
+        "Underseat Storage": "21 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "Unit Swing",
+        "Front Tyre": "90/90-12 Tubeless",
+        "Rear Tyre": "110/90-10 Tubeless",
+        "Front Brake": "190 mm",
+        "Rear Brake": "Drum",
+        "UBS": "Equipped"
+      },
+      "otherInfo": {
+        "Battery": "Maintenance free - 12V, 5.0 Ah",
+        "Ignition System": "TCI (Transistor Controlled Ignition)",
+        "Headlight": "LED",
+        "Position Light": "LED",
+        "Speedometer": "Digital",
+        "Side Stand Engine Cut-Off": "Equipped",
+        "Bluetooth": "Yamaha Motorcycle Connect X"
+      }
+    },
+    {
+      "name": "AEROX 155 STD",
+      "engine": {
+        "Engine Type": "Liquid cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "11.0 kW (15.0 PS) / 8000 r/min",
+        "Maximum Torque": "13.9 N.m (1.4 kgf.m) / 6500 r/min",
+        "Fuel System": "Fuel Injection",
+        "Starting System Type": "Electric starter and kick starter",
+        "Transmission Type": "V-belt automatic",
+        "Hybrid": "Equipped",
+        "Automatic Stop & Start System": "Equipped",
+        "Smart Motor Generator": "Equipped",
+        "E20 Compatible": "Yes"
+      },
+      "dimensions": {
+        "Overall Length": "1980 mm",
+        "Overall Width": "700 mm",
+        "Overall Height": "1150 mm",
+        "Seat Height": "790 mm",
+        "Wheelbase": "1350 mm",
+        "Ground Clearance": "145 mm",
+        "Weight": "126 kg",
+        "Fuel Tank Capacity": "5.5 L",
+        "Underseat Storage": "24.5 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "Unit Swing",
+        "Front Tyre": "110/80-14 M/C 53P Tubeless",
+        "Rear Tyre": "140/70-14 M/C 62P Tubeless",
+        "Front Brake": "Disc Brake (230 mm)",
+        "Rear Brake": "Drum (130 mm)",
+        "ABS": "Single Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "Maintenance free - 12V, 6.0 Ah",
+        "Headlight": "LED",
+        "Brake/Tail Light": "LED",
+        "Instrument Cluster": "Fully digital anti-glare multifunction negative LCD",
+        "Traction Control": "Equipped",
+        "VVA": "Equipped",
+        "Y-Connect": "Equipped",
+        "Side Stand Engine Cut-Off": "Equipped"
+      }
+    },
+    {
+      "name": "AEROX 155 S DLX",
+      "engine": {
+        "Engine Type": "Liquid cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 cc",
+        "Bore & Stroke": "58.0 × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "11.0 kW (15.0 PS) / 8000 r/min",
+        "Maximum Torque": "13.9 N.m (1.4 kgf.m) / 6500 r/min",
+        "Fuel System": "Fuel Injection",
+        "Starting System Type": "Electric starter and kick starter",
+        "Transmission Type": "V-belt automatic",
+        "Hybrid": "Equipped",
+        "Automatic Stop & Start System": "Equipped",
+        "Smart Motor Generator": "Equipped",
+        "E20 Compatible": "Yes"
+      },
+      "dimensions": {
+        "Overall Length": "1980 mm",
+        "Overall Width": "700 mm",
+        "Overall Height": "1150 mm",
+        "Seat Height": "790 mm",
+        "Wheelbase": "1350 mm",
+        "Ground Clearance": "145 mm",
+        "Weight": "126 kg",
+        "Fuel Tank Capacity": "5.5 L",
+        "Underseat Storage": "24.5 L"
+      },
+      "chassis": {
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "Unit Swing",
+        "Front Tyre": "110/80-14 M/C 53P Tubeless",
+        "Rear Tyre": "140/70-14 M/C 62P Tubeless",
+        "Front Brake": "Disc Brake (230 mm)",
+        "Rear Brake": "Drum (130 mm)",
+        "ABS": "Single Channel ABS"
+      },
+      "otherInfo": {
+        "Battery": "Maintenance free - 12V, 6.0 Ah",
+        "Headlight": "LED",
+        "Brake/Tail Light": "LED",
+        "Instrument Cluster": "Fully digital anti-glare multifunction negative LCD",
+        "Traction Control": "Equipped",
+        "VVA": "Equipped",
+        "Y-Connect": "Equipped",
+        "Side Stand Engine Cut-Off": "Equipped"
       }
     }
   ]
