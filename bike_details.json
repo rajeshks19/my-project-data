@@ -1,0 +1,52 @@
+{
+  "bikes": [
+    {
+      "name": "FZ BLUE FLEX (Black)",
+
+      "engine": {
+        "Engine Type": "Liquid-cooled, 4-stroke, SOHC, 4-valve",
+        "Displacement": "155 CC",
+        "Bore & Stroke": "58.0 mm × 58.7 mm",
+        "Compression Ratio": "11.6 : 1",
+        "Maximum Horsepower": "13.5 kW (18.4 PS) / 10000 r/min",
+        "E20 Compatible": "Yes",
+        "Clutch Type": "Wet, Multiple Disc",
+        "Transmission Type": "Constant mesh, 6-speed",
+        "Starting System Type": "Electric starter",
+        "Maximum Torque": "14.1 N.m (1.4 kgf.m) / 7500 r/min",
+        "Fuel System": "Fuel injection"
+      },
+
+      "dimensions": {
+        "Overall Length": "1990 mm",
+        "Overall Width": "780 mm",
+        "Overall Height": "1080 mm",
+        "Wheelbase": "1330 mm",
+        "Ground Clearance": "165 mm",
+        "Seat Height": "790 mm",
+        "Kerb Weight": "139 kg",
+        "Fuel Tank Capacity": "13 L"
+      },
+
+      "chassis": {
+        "Frame Type": "Diamond",
+        "Front Suspension": "Telescopic Fork",
+        "Rear Suspension": "7-step Adjustable Monocross",
+        "Front Brake": "Disc (282 mm)",
+        "Rear Brake": "Disc (220 mm)",
+        "Front Tyre": "100/80-17 M/C 52P",
+        "Rear Tyre": "140/60R17 M/C 63P",
+        "ABS": "Single Channel ABS"
+      },
+
+      "otherInfo": {
+        "Battery": "12V, 5.0 Ah (MF)",
+        "Headlight": "LED",
+        "Taillight": "LED",
+        "Instrument Cluster": "LCD",
+        "Fuel Type": "Petrol",
+        "E20 Compatible": "Yes"
+      }
+    }
+  ]
+}
