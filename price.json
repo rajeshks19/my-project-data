@@ -102,12 +102,12 @@
 ,
 
 { "name": "YZF R2 STD (Black, Dark-Grey)",
-  "price": 274037,
+  "price": 274259,
   "images": ["r2stdmetallicblack.webp", "r2stddarkbluishgray.webp"]}
 ,
 
 { "name": "YZF R2 Quick-Shifter  (Blue, White)",
-  "price": 284027,
+  "price": 284249,
   "images": ["r2qsracingblue.webp", "r2qswhite.webp"]}
 ,
 
@@ -132,22 +132,22 @@
 ,
 
 { "name": "RAY ZR DR (Black)",
-  "price": 100344,
+  "price": 101232,
   "images": ["rayzrdr2.webp"]}
 ,
 
 { "name": "RAY ZR DI (Armada-Blue, Black, White)",
-  "price": 109015,
+  "price": 109903,
   "images": ["rayzrdidlx2.webp", "rayzrdiscmetallicblack_disc.webp", "rayzrdiscwhite.webp"]}
 ,
 
 { "name": "RAY ZR STREET RALLY LCD (Black, White)",
-  "price": 115952,
+  "price": 116840,
   "images": ["rayzrstrblack.webp", "rayzrstr2.webp"]}
 ,
 
 { "name": "RAY ZR STREET RALLY TFT  (Titan, Black)",
-  "price": 123294,
+  "price": 124182,
   "images": ["rayzrstrtftmatte_black_tft.webp", "rayzrstrtftmatte_titan_tft.webp"]}
 ,
 
