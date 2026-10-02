@@ -1,0 +1,71 @@
+{
+  "categories": [
+    {
+      "category": "fz",
+      "models": [
+        "FZFI V3",
+        "FZ-RAVE (Titan, Black)",
+        "FZ BLUE FLEX (Black)",
+        "FZS V4 STD(Grey, White, Green, Black)",
+        "FZS V4 HYBRID DLX(Matt Black, Cyan, Ice Storm)",
+        "FZX NOR (Black, Armada-Blue)",
+        "FZX HYBRID (Matt-Titan)"
+      ]
+    },
+    {
+      "category": "xsr",
+      "models": [
+        "XSR-155 Base (Red)",
+        "XSR-155 Mid (Silver)",
+        "XSR-155 Top (Black, Green, Blue)"
+      ]
+    },
+    {
+      "category": "mt",
+      "models": [
+        "MT 15 STD (Black)",
+        "MT15 V2-NEW STD(Cyan)",
+        "MT 15 V2 -MONSTER",
+        "MT 15 V2 NEW DLX (Black, Violet, Cyan-White)"
+      ]
+    },
+    {
+      "category": "r15",
+      "models": [
+        "R15-V4 (Black, White - Without Quick-Shifter)",
+        "R15 V4 (Blue, White - With Quick-Shifter)",
+        "R15 M SILVER",
+        "R15 V4 MOTO-GP",
+        "R15 M ICON",
+        "R15 S"
+      ]
+    },
+    {
+      "category": "r2",
+      "models": [
+        "YZF R2 STD (Black, Dark-Grey)",
+        "YZF R2 Quick-Shifter  (Blue, White)",
+        "YZF R2M"
+      ]
+    },
+    {
+      "category": "scooter",
+      "models": [
+        "New Fascino HYBRID DRUM (Red, Black,White)",
+        "New Fascino HYBRID DISC (Armada, Cool Blue, Light Green)",
+        "New Fascino HYBRID S (Matt Black, Matt Grey)",
+        "RAY ZR DR (Black)",
+        "RAY ZR DI (Armada-Blue, Black, White)",
+        "RAY ZR STREET RALLY LCD (Black, White)",
+        "RAY ZR STREET RALLY TFT  (Titan, Black)"
+      ]
+    },
+    {
+      "category": "premium_scooter",
+      "models": [
+        "AEROX 155 STD",
+        "AEROX 155 S DLX"
+      ]
+    }
+  ]
+}
