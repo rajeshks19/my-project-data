@@ -34,9 +34,9 @@
       "category": "scooter",
       "discount": 1350,
       "offerName": "Company Scooter Offer",
-      "start": "2026-10-02T13:50:00+05:30",
-"end": "2026-10-02T14:00:00+05:30",
-"active": true,
+      "start": "2026-10-01T00:00:00+05:30",
+      "end": "2026-10-15T23:59:59+05:30",
+      "active": true,
       "stackable": false
     }
   ]
