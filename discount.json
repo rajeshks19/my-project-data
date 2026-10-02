@@ -13,10 +13,14 @@
       "stackable": false
     },
     {
-      "id": "company_fz_oct_2026",
+      "id": "company_fz_fzs_fzfi_oct_2026",
       "type": "company",
-      "scope": "category",
-      "category": "fz",
+      "scope": "models",
+      "models": [
+        "FZFI V3",
+        "FZS V4 STD(Grey, White, Green, Black)",
+        "FZS V4 HYBRID DLX(Matt Black, Cyan, Ice Storm)"
+      ],
       "discount": 1500,
       "offerName": "Company Special Offer",
       "start": "2026-10-01T00:00:00+05:30",
@@ -26,8 +30,7 @@
     },
     {
       "id": "company_scooter_oct_2026",
-      "type": "company",
-      "scope": "category",
+      "type": "category",
       "category": "scooter",
       "discount": 1350,
       "offerName": "Company Scooter Offer",
