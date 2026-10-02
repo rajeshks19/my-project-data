@@ -30,8 +30,17 @@
     },
     {
       "id": "company_scooter_oct_2026",
-      "type": "category",
-      "category": "r2",
+      "type": "company",
+      "scope": "models",
+      "models": [
+        "New Fascino HYBRID DRUM (Red, Black,White)",
+        "New Fascino HYBRID DISC (Armada, Cool Blue, Light Green)",
+        "New Fascino HYBRID S (Matt Black, Matt Grey)",
+        "RAY ZR DR (Black)",
+        "RAY ZR DI (Armada-Blue, Black, White)",
+        "RAY ZR STREET RALLY LCD (Black, White)",
+        "RAY ZR STREET RALLY TFT  (Titan, Black)"
+      ],
       "discount": 1350,
       "offerName": "Company Scooter Offer",
       "start": "2026-10-01T00:00:00+05:30",
