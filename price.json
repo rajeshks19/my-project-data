@@ -102,17 +102,17 @@
 ,
 
 { "name": "YZF R2 STD (Black, Dark-Grey)",
-  "price": 274259,
+  "price": 275259,
   "images": ["r2stdmetallicblack.webp", "r2stddarkbluishgray.webp"]}
 ,
 
 { "name": "YZF R2 Quick-Shifter  (Blue, White)",
-  "price": 284249,
+  "price": 285262,
   "images": ["r2qsracingblue.webp", "r2qswhite.webp"]}
 ,
 
 { "name": "YZF R2M",
-  "price": 299012,
+  "price": 300279,
   "images": ["r2mgreyblue.webp"]}
 ,
 
