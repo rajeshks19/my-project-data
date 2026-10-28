@@ -1,0 +1,295 @@
+{
+  "version": 1,
+  "currency": "INR",
+  "price_rule": "sale_price = ex_showroom + rsa + p_plus_5yr; less_margin is informational and is not deducted.",
+  "models": [
+    {
+      "model": "FZ-FI V3",
+      "variant_code": "D70400/D73400",
+      "ex_showroom": 117660,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 2500,
+      "sale_price": 118687
+    },
+    {
+      "model": "FZ RAVE",
+      "variant_code": "D73500/D70500",
+      "ex_showroom": 125980,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 2500,
+      "sale_price": 127007
+    },
+    {
+      "model": "FZ BLUE FLEX",
+      "variant_code": "D00100",
+      "ex_showroom": 126380,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 2500,
+      "sale_price": 127407
+    },
+    {
+      "model": "FZS V4 STD",
+      "variant_code": "BJEC00/BXP300",
+      "ex_showroom": 131780,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 2500,
+      "sale_price": 132807
+    },
+    {
+      "model": "FZS V4 HYBRID DLX",
+      "variant_code": "BST100/BST300",
+      "ex_showroom": 142100,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 2500,
+      "sale_price": 143127
+    },
+    {
+      "model": "FZ-X NON HYBRID",
+      "variant_code": "D53100",
+      "ex_showroom": 126770,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 2500,
+      "sale_price": 127797
+    },
+    {
+      "model": "FZ-X HYBRID",
+      "variant_code": "D52100",
+      "ex_showroom": 146210,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 2500,
+      "sale_price": 147237
+    },
+    {
+      "model": "XSR 155 Base",
+      "variant_code": "DD4100/DD4200",
+      "ex_showroom": 157700,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 158727
+    },
+    {
+      "model": "XSR 155 Mid",
+      "variant_code": "DD4100/DD4200",
+      "ex_showroom": 161700,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 162727
+    },
+    {
+      "model": "XSR 155 Top",
+      "variant_code": "DD4100/DD4200",
+      "ex_showroom": 163700,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 164727
+    },
+    {
+      "model": "MT 15 STD",
+      "variant_code": "BXU500/BXUD00",
+      "ex_showroom": 166510,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 167537
+    },
+    {
+      "model": "MT15 V2 NEW STD",
+      "variant_code": "BXU500/BXUD00",
+      "ex_showroom": 167410,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 168437
+    },
+    {
+      "model": "MT15 V2 MONSTAR",
+      "variant_code": "BXUB00",
+      "ex_showroom": 168910,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 169937
+    },
+    {
+      "model": "MT15 V2 NEW DLX",
+      "variant_code": "BXU300/BXUC00",
+      "ex_showroom": 176630,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 177657
+    },
+    {
+      "model": "R15 V4 Without QS",
+      "variant_code": "DM4500/DM4A00",
+      "ex_showroom": 176650,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 177677
+    },
+    {
+      "model": "R15 V4 With QS",
+      "variant_code": "DM4600/D6K100",
+      "ex_showroom": 180400,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 181427
+    },
+    {
+      "model": "R15 M SILVER",
+      "variant_code": "DM4300/DM4900",
+      "ex_showroom": 191230,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 192257
+    },
+    {
+      "model": "R15 V4 MGP",
+      "variant_code": "DM4B00",
+      "ex_showroom": 176950,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 177977
+    },
+    {
+      "model": "R15 M ICON",
+      "variant_code": "BPDY00/BPDT00",
+      "ex_showroom": 201440,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 202467
+    },
+    {
+      "model": "R15 S",
+      "variant_code": "DM4400/B0T500",
+      "ex_showroom": 160070,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 3000,
+      "sale_price": 161097
+    },
+    {
+      "model": "YZF R2 STD",
+      "variant_code": "BTA100",
+      "ex_showroom": 231400,
+      "rsa": 350,
+      "p_plus_5yr": 899,
+      "less_margin": 3000,
+      "sale_price": 232649
+    },
+    {
+      "model": "YZF R2 QS",
+      "variant_code": "BTA200",
+      "ex_showroom": 240400,
+      "rsa": 350,
+      "p_plus_5yr": 899,
+      "less_margin": 3000,
+      "sale_price": 241649
+    },
+    {
+      "model": "YZF R2M",
+      "variant_code": "D92100",
+      "ex_showroom": 253900,
+      "rsa": 350,
+      "p_plus_5yr": 899,
+      "less_margin": 3000,
+      "sale_price": 255149
+    },
+    {
+      "model": "FASCINO HYBRID DRUM",
+      "variant_code": "BGPK00/DG5900",
+      "ex_showroom": 81680,
+      "rsa": 350,
+      "p_plus_5yr": 455,
+      "less_margin": 1800,
+      "sale_price": 82485
+    },
+    {
+      "model": "FASCINO HYBRID DISC",
+      "variant_code": "BGPL00/DG5800",
+      "ex_showroom": 91970,
+      "rsa": 350,
+      "p_plus_5yr": 455,
+      "less_margin": 1800,
+      "sale_price": 92775
+    },
+    {
+      "model": "FASCINO HYBRID S",
+      "variant_code": "BGPJ00/DG5700",
+      "ex_showroom": 99930,
+      "rsa": 350,
+      "p_plus_5yr": 455,
+      "less_margin": 1800,
+      "sale_price": 100735
+    },
+    {
+      "model": "RAY ZR DRUM",
+      "variant_code": "BKXE00/BKXP00",
+      "ex_showroom": 81580,
+      "rsa": 350,
+      "p_plus_5yr": 455,
+      "less_margin": 1800,
+      "sale_price": 82385
+    },
+    {
+      "model": "RAY ZR DISC",
+      "variant_code": "BKXD00/BKXN00",
+      "ex_showroom": 89380,
+      "rsa": 350,
+      "p_plus_5yr": 455,
+      "less_margin": 1800,
+      "sale_price": 90185
+    },
+    {
+      "model": "RAY ZR STR LCD",
+      "variant_code": "BKXF00/BKXR00",
+      "ex_showroom": 95630,
+      "rsa": 350,
+      "p_plus_5yr": 455,
+      "less_margin": 1800,
+      "sale_price": 96435
+    },
+    {
+      "model": "RAY ZR STR TFT",
+      "variant_code": "BKXM00",
+      "ex_showroom": 102140,
+      "rsa": 350,
+      "p_plus_5yr": 455,
+      "less_margin": 1800,
+      "sale_price": 102945
+    },
+    {
+      "model": "AEROX 155 STD",
+      "variant_code": "BLV700",
+      "ex_showroom": 146430,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 2600,
+      "sale_price": 147457
+    },
+    {
+      "model": "AEROX 155 DLX",
+      "variant_code": "BLV800",
+      "ex_showroom": 150450,
+      "rsa": 350,
+      "p_plus_5yr": 677,
+      "less_margin": 2600,
+      "sale_price": 151477
+    }
+  ]
+}
