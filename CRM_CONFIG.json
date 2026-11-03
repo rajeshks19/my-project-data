@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-03",
+  "bikeModels": [
+    "Not Decided",
+    "FZ-S Fi",
+    "MT-15",
+    "R15",
+    "RayZR 125 Fi",
+    "Fascino 125 Fi",
+    "Other"
+  ],
+  "enquirySources": ["Walk-in", "Phone", "WhatsApp", "Referral", "Online/Social media", "Other"],
+  "paymentModes": ["Cash", "Finance (Fin)", "Cash + Exchange", "Finance + Exchange"],
+  "buyingDateOptions": ["Today", "Tomorrow", "7 days", "15 days", "A month later", "Choose exact date", "Not Decided"]
+}
