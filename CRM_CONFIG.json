@@ -1,16 +1,128 @@
-{
-  "version": 1,
-  "updatedAt": "2026-11-03",
-  "bikeModels": [
-    "Not Decided",
-    "FZ-S Fi",
-    "MT-15",
-    "R15",
-    "RayZR 125 Fi",
-    "Fascino 125 Fi",
+      "price": 193801,
+      "images": [
+        "r15sblac1.webp",
+        "r15sblack2.webp",
+        "r15sblue.webp"
+      ]
+    },
+    {
+      "name": "YZF R2 STD (Black, Dark-Grey)",
+      "price": 275259,
+      "images": [
+        "r2stdmetallicblack.webp",
+        "r2stddarkbluishgray.webp"
+      ]
+    },
+    {
+      "name": "YZF R2 Quick-Shifter  (Blue, White)",
+      "price": 285262,
+      "images": [
+        "r2qsracingblue.webp",
+        "r2qswhite.webp"
+      ]
+    },
+    {
+      "name": "YZF R2M",
+      "price": 300279,
+      "images": [
+        "r2mgreyblue.webp"
+      ]
+    },
+    {
+      "name": "New Fascino HYBRID DRUM (Red, Black,White)",
+      "price": 101356,
+      "images": [
+        "fascinodrum2.webp",
+        "fascinodrum1.webp",
+        "fascinodrum3.webp"
+      ]
+    },
+    {
+      "name": "New Fascino HYBRID DISC (Armada, Cool Blue, Light Green)",
+      "price": 112778,
+      "images": [
+        "fascinodisk3.webp",
+        "fascinodisk2.webp",
+        "fascinodisk1.webp"
+      ]
+    },
+    {
+      "name": "New Fascino HYBRID S (Matt Black, Matt Grey)",
+      "price": 121613,
+      "images": [
+        "fascinons1.webp",
+        "fascinons2.webp"
+      ]
+    },
+    {
+      "name": "RAY ZR DR (Black)",
+      "price": 101232,
+      "images": [
+        "rayzrdr2.webp"
+      ]
+    },
+    {
+      "name": "RAY ZR DI (Armada-Blue, Black, White)",
+      "price": 109903,
+      "images": [
+        "rayzrdidlx2.webp",
+        "rayzrdiscmetallicblack_disc.webp",
+        "rayzrdiscwhite.webp"
+      ]
+    },
+    {
+      "name": "RAY ZR STREET RALLY LCD (Black, White)",
+      "price": 116840,
+      "images": [
+        "rayzrstrblack.webp",
+        "rayzrstr2.webp"
+      ]
+    },
+    {
+      "name": "RAY ZR STREET RALLY TFT  (Titan, Black)",
+      "price": 124182,
+      "images": [
+        "rayzrstrtftmatte_black_tft.webp",
+        "rayzrstrtftmatte_titan_tft.webp"
+      ]
+    },
+    {
+      "name": "AEROX 155 STD",
+      "price": 178450,
+      "images": [
+        "aerox1.webp"
+      ]
+    },
+    {
+      "name": "AEROX 155 S DLX",
+      "price": 182925,
+      "images": [
+        "aeroxs1.webp",
+        "aeroxs2.webp"
+      ]
+    }
+  ],
+  "enquirySources": [
+    "Walk-in",
+    "Phone",
+    "WhatsApp",
+    "Referral",
+    "Online/Social media",
+    "Facebook/Instagram",
+    "Website",
     "Other"
   ],
-  "enquirySources": ["Walk-in", "Phone", "WhatsApp", "Referral", "Online/Social media", "Other"],
-  "paymentModes": ["Cash", "Finance (Fin)", "Cash + Exchange", "Finance + Exchange"],
-  "buyingDateOptions": ["Today", "Tomorrow", "7 days", "15 days", "A month later", "Choose exact date", "Not Decided"]
-}
+  "paymentModes": [
+    "Cash",
+    "Finance (Fin)",
+    "Cash + Exchange",
+    "Finance + Exchange"
+  ],
+  "buyingDateOptions": [
+    "Today",
+    "Tomorrow",
+    "7 days",
+    "15 days",
+    "A month later",
+    "Choose exact date",
+    "Not Decided"
