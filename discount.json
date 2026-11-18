@@ -9,18 +9,14 @@
       "offerName": "Company Special Offer",
       "start": "2026-10-01T00:00:00+05:30",
       "end": "2026-10-15T23:59:59+05:30",
-      "active": true,
+      "active": false,
       "stackable": false
     },
     {
       "id": "company_fz_fzs_fzfi_oct_2026",
       "type": "company",
       "scope": "models",
-      "models": [
-        "FZFI V3",
-        "FZS V4 STD(Grey, White, Green, Black)",
-        "FZS V4 HYBRID DLX(Matt Black, Cyan, Ice Storm)"
-      ],
+      "models": [],
       "discount": 2350,
       "offerName": "Company Special Offer",
       "start": "2026-10-01T00:00:00+05:30",
@@ -32,15 +28,7 @@
       "id": "company_scooter_oct_2026",
       "type": "company",
       "scope": "models",
-      "models": [
-        "New Fascino HYBRID DRUM (Red, Black,White)",
-        "New Fascino HYBRID DISC (Armada, Cool Blue, Light Green)",
-        "New Fascino HYBRID S (Matt Black, Matt Grey)",
-        "RAY ZR DR (Black)",
-        "RAY ZR DI (Armada-Blue, Black, White)",
-        "RAY ZR STREET RALLY LCD (Black, White)",
-        "RAY ZR STREET RALLY TFT  (Titan, Black)"
-      ],
+      "models": [],
       "discount": 1350,
       "offerName": "Company Scooter Offer",
       "start": "2026-10-01T00:00:00+05:30",
